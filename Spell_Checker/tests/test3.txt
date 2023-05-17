@@ -1,0 +1,3 @@
+Thsi is an exapmle of a paragarph with sevral mestakes. 
+The spelcheker shuld be able to corect all of the mistaks and produca more accurat vershion of the 
+paragrahp.
